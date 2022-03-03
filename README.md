@@ -25,6 +25,9 @@
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="padding-right:10px;" />
-<img align="left" alt="C" width="26px" src="./images/c.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="./images/c++.svg" style="padding-right:10px;" />
+<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pyhton" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Tenserflow" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
