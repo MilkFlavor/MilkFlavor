@@ -20,9 +20,7 @@
 ### Connect with me:
 
 [![website](./images/discordapp-icon.svg)](https://discord.gg/zsyzKHXHXh)
-
 [![website](./images/reddit-icon.svg)](https://www.reddit.com/user/brahitsnickgurr)
-
 [![website](./images/youtube-icon.svg)](https://www.youtube.com/channel/UC43cw3IXfulH6NSIYmGF5nw)
 
 ### Languages and Tools:
