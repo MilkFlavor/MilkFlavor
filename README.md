@@ -1,6 +1,5 @@
 # Hi there, I'm MilkFlavor - aka [フレーバー] (⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄
 
-
 ## I'm here to learn everything about computers!
 
 - 🔭 Check out my automated Android recovery compiler. 🤖
