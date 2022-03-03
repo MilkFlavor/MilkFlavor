@@ -19,13 +19,11 @@
 
 ### Connect with me:
 
-[![website](./images/discordapp-icon.svg)](https://discord.gg/zsyzKHXHXh) Drinking milk on our Monday#2219
+[![website](./images/discordapp-icon.svg)](https://discord.gg/zsyzKHXHXh)
 
 [![website](./images/reddit-icon.svg)](https://www.reddit.com/user/brahitsnickgurr)
-MilkFlavored
 
 [![website](./images/youtube-icon.svg)](https://www.youtube.com/channel/UC43cw3IXfulH6NSIYmGF5nw)
-フレーバー]
 
 ### Languages and Tools:
 
