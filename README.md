@@ -20,3 +20,15 @@
 <img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" style="padding-right:10px;" /> <img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/c/c-original.svg" style="padding-right:10px;" /> <img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" /> <img align="left" alt="Pyhton" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-right:10px;" /> <img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linux/linux-original.svg" style="padding-right:10px;" /> <img align="left" alt="Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" /> <img align="left" alt="Tenserflow" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/rust/rust-plain.svg" style="padding-right:10px;" />
+
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://MilkFlavor.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MilkFlavor&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MilkFlavor&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
