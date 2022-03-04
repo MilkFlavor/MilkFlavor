@@ -72,6 +72,12 @@
 </p>
 
 ## Connect with me:
-  [![website](./images/discordapp-icon.svg)](https://discord.gg/zsyzKHXHXh)
-  [![website](./images/reddit-icon.svg)](https://www.reddit.com/user/brahitsnickgurr)
-  [![website](./images/youtube-icon.svg)](https://www.youtube.com/channel/UC43cw3IXfulH6NSIYmGF5nw)
+  <a href="https://discord.gg/zsyzKHXHXh">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white">
+  </a>
+  <a href="https://www.reddit.com/user/brahitsnickgurr">
+    <img src="https://img.shields.io/badge/Reddit-ff6500?style=for-the-badge&logo=Reddit&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UC43cw3IXfulH6NSIYmGF5nw">
+    <img src="https://img.shields.io/badge/Shibai-c4302b?style=for-the-badge&logo=Youtube&logoColor=white">
+  </a>
