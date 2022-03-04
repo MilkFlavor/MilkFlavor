@@ -85,10 +85,7 @@ Python     02 hrs 13 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
-  <details>
-<summary>Contact Me</summary>
-  
-<!-- favorites_characters starts -->
+<p>Contact Me</p>
 <a href="https://discord.gg/zsyzKHXHXh">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
@@ -98,6 +95,3 @@ Python     02 hrs 13 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <a href="https://www.youtube.com/channel/UC43cw3IXfulH6NSIYmGF5nw">
     <img src="https://img.shields.io/badge/Shibai-c4302b?style=for-the-badge&logo=Youtube&logoColor=white">
   </a>
-<!-- favorites_characters ends -->
-
-</details>
