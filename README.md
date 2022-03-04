@@ -1,7 +1,7 @@
-# Hi there, I'm MilkFlavor - aka [フレーバー] (⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄
+# Hi there, I'm MilkFlavor - aka [『フレーバー』]
+｡ﾟ･（>﹏<）･ﾟ｡ ~ "I am trying my best"
 
 ## I'm here to learn everything about computers!
-
 - 🔭 Check out my automated Android recovery compiler. 🤖
 - 📔 I’m currently working on automating Andorid games using TenserFlow. 🧠
 - 👯 I’m looking to collaborate with other enthusiastic developers. 👍
@@ -9,12 +9,6 @@
 - ⚡ Fun fact: I love learning songs on the piano. 🎹
 - MilkFlavor is trying his best.
 ---
-### Connect with me:
-
-[![website](./images/discordapp-icon.svg)](https://discord.gg/zsyzKHXHXh)
-[![website](./images/reddit-icon.svg)](https://www.reddit.com/user/brahitsnickgurr)
-[![website](./images/youtube-icon.svg)](https://www.youtube.com/channel/UC43cw3IXfulH6NSIYmGF5nw)
-
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> <img align="middle" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /> <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> 
@@ -31,7 +25,7 @@
 <img align="left" alt="Tenserflow" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Rust" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/rust/rust-plain.svg" style="padding-right:10px;" />
-<br/>
+
 
 ## My Statistics
 <p align="left">
@@ -41,3 +35,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilkFlavor&theme=dracula&hide_border=true" />
   </a>
 </p>
+
+---
+## Connect with me:
+
+[![website](./images/discordapp-icon.svg)](https://discord.gg/zsyzKHXHXh)
+[![website](./images/reddit-icon.svg)](https://www.reddit.com/user/brahitsnickgurr)
+[![website](./images/youtube-icon.svg)](https://www.youtube.com/channel/UC43cw3IXfulH6NSIYmGF5nw)
