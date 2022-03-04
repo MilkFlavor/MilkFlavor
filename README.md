@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white">
   </a>
   <a href="https://www.tenserflow.org">
-    <img src="https://img.shields.io/badge/Tenserflow-F05032?&style=for-the-badge&logo=Tenserflow&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>
   <a href="https://github.com/MilkFlavor/MilkFlavor/">
     <img src="https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=Python&logoColor=white">
@@ -71,8 +71,11 @@
   </a>
 </p>
 
-## Connect with me:
-  <a href="https://discord.gg/zsyzKHXHXh">
+  <details>
+<summary>Contact Me</summary>
+  
+<!-- favorites_characters starts -->
+<a href="https://discord.gg/zsyzKHXHXh">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
   <a href="https://www.reddit.com/user/brahitsnickgurr">
@@ -81,3 +84,6 @@
   <a href="https://www.youtube.com/channel/UC43cw3IXfulH6NSIYmGF5nw">
     <img src="https://img.shields.io/badge/Shibai-c4302b?style=for-the-badge&logo=Youtube&logoColor=white">
   </a>
+<!-- favorites_characters ends -->
+
+</details>
