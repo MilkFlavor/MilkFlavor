@@ -27,8 +27,8 @@
 <br/>
 <p align="left">
   <a href="https://MilkFlavor.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MilkFlavor&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MilkFlavor&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MilkFlavor&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MilkFlavor&theme=dracula&hide_border=true" />
   </a>
 </p>
 <br>
