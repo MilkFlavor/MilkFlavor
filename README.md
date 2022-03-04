@@ -71,7 +71,7 @@
   </a>
 </p>
 
-<h1 align="center"> :bar_chart: [Monthly coding time](https://github.com/MilkFlavor) </h1>
+<h1 align="center"> :bar_chart: Monthly coding time: </h1>
 
 <!--START_SECTION:waka-->
 ```text
