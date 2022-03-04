@@ -84,8 +84,9 @@ Python     02 hrs 13 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:waka-->
 
 ---
-
-<p>Contact Me</p>
+<details>
+<summary>Contact Me</summary>
+<!-- Contacts starts -->
 <a href="https://discord.gg/zsyzKHXHXh">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white">
   </a>
@@ -94,4 +95,6 @@ Python     02 hrs 13 mins   🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   </a>
   <a href="https://www.youtube.com/channel/UC43cw3IXfulH6NSIYmGF5nw">
     <img src="https://img.shields.io/badge/Shibai-c4302b?style=for-the-badge&logo=Youtube&logoColor=white">
-  </a>
+ </a>
+<!-- Contacts end here -->
+</details>
