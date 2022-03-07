@@ -1,6 +1,10 @@
+<a href="https://github.com/MilkFlavor">
+    <img src="./images/Banner.png">
+</a>
+
 <h1 align=center>Hi there, I'm MilkFlavor - aka [『フレーバー』] </h1>
 
-<p align="center"> ｡ﾟ･（>﹏<）･ﾟ｡ ~ "I am trying my best" </p>
+<p align="center"> ｡ﾟ･（~_~;）･ﾟ｡ ~ "I am trying my best" </p>
 
 <h1 align="center"> Things about me: </h1>
   <p align="center">
@@ -17,9 +21,7 @@
 
 <h1 align="center"> 🔧 Skills & Tools: </h1>
 <p align="center">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  </a>
+  
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
   </a>
@@ -66,8 +68,8 @@
 <h1 align="center"> 📈 Statistics: </h1>
 <p align="center">
   <a href="https://MilkFlavor.dev/">
-  <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=MilkFlavor&show_icons=true&theme=dracula&hide_border=true"/>
-  <img width="49.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=MilkFlavor&theme=dracula&hide_border=true" />
+  <img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=MilkFlavor&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=559bde"/>
+  <img width="49.8%" src="https://github-readme-streak-stats.herokuapp.com/?user=MilkFlavor&background=559bde&hide_border=true&ring=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=7dace3&currStreakNum=ffffff" />
   </a>
 </p>
 
