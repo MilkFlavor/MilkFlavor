@@ -1,7 +1,3 @@
-<a href="https://github.com/MilkFlavor">
-    <img src="./images/Banner.png">
-</a>
-
 <h1 align=center>Hi there, I'm MilkFlavor - aka [『フレーバー』] </h1>
 
 <p align="center"> ｡ﾟ･（~_~;）･ﾟ｡ ~ "I am trying my best" </p>
