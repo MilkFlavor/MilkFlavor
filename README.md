@@ -1,6 +1,6 @@
-<h1 align=center>Hi there, I'm MilkFlavor - aka [『フレーバー』] </h1>
+<h1 align=center>Hi there </h1>
 
-<p align="center"> ｡ﾟ･（~_~;）･ﾟ｡ ~ "I am trying my best" </p>
+<p align="center">"I am trying my best" </p>
 
 <h1 align="center"> Things about me: </h1>
   <p align="center">
